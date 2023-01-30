@@ -41,6 +41,6 @@ public class DuplicateElimination {
             System.out.println(Arrays.toString(num));
 
         }
-        // System.out.println(count);
+         System.out.println(count);
     }
 }
