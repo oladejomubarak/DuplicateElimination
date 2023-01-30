@@ -4,14 +4,14 @@ import java.util.Scanner;
 public class DuplicateElimination {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        //int [] num = {-1,-1,-1,-1,-1,-1,-1,-1,-1,-1};
+        int [] num = {-1,-1,-1,-1,-1,-1,-1,-1,-1,-1};
 
         boolean isNull = true;
         boolean isDuplicate = false;
         boolean isAValidNumber;
         int count = 0;
         while (isNull){
-          //  System.out.println("Enter a number");
+            System.out.println("Enter a number");
             int userInput = scanner.nextInt();
             isAValidNumber = userInput >= 10 && userInput <= 100;
 
