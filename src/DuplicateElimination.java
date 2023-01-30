@@ -38,7 +38,7 @@ public class DuplicateElimination {
                     isNull = false;
                 }
             }
-            //System.out.println(Arrays.toString(num));
+            System.out.println(Arrays.toString(num));
 
         }
         // System.out.println(count);
