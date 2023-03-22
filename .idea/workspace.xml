@@ -38,9 +38,23 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseArray">
+  <component name="RunManager" selected="Application.ArrayReverse">
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayReverse" />
+      <module name="duplicateElimination" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DuplicateElimination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DuplicateElimination" />
+      <module name="duplicateElimination" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintEvenNumbers" />
       <module name="duplicateElimination" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,6 +69,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayReverse" />
+        <item itemvalue="Application.PrintEvenNumbers" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.DuplicateElimination" />
       </list>
@@ -69,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675071495164</updated>
       <workItem from="1675071497536" duration="593000" />
-      <workItem from="1679231226938" duration="4325000" />
+      <workItem from="1679231226938" duration="12483000" />
     </task>
     <servers />
   </component>
