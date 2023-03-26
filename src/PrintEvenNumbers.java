@@ -10,7 +10,6 @@ public class PrintEvenNumbers {
         for (int i = 0; i < arr.length; i++) {
             if(arr[i] % 2 < 1){
                 System.out.printf("%d ", arr[i]);
-
             }
 
         }
